@@ -1,6 +1,26 @@
-div {
+/* div {
   background: red;
 }
 span {
   background: green;
+} */
+
+p {
+  background: yellow;
+}
+
+a {
+  background: aqua;
+}
+
+sup {
+  background: green;
+}
+
+sub {
+  background: red;
+}
+
+img {
+  background: darkgoldenrod;
 }
